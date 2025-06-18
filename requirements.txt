@@ -1,0 +1,6 @@
+fastapi
+pydantic
+uvicorn[standard]
+pandas
+numpy
+ollama
